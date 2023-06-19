@@ -1,0 +1,21 @@
+header {
+    background-color:#A1C2F1;
+    width: 100%;
+    text-align: center;
+    border: 1px, solid, #A1C2F1;
+}
+
+body {
+    background-color:#5A96E3;
+    text-align: center;
+    width: 100vw;
+}
+
+.wrapper {
+    background-color:#E7CEA6;
+    border: 1px, solid, #A1C2F1;
+    text-align: center;
+    margin: 50px;
+    padding: 50px;
+    font-size: 1.25em;
+}
